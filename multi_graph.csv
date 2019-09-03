@@ -1,0 +1,981 @@
+symbol,name,date,price
+MSFT,Microsoft Corp.,Jan 2010,30.15
+MSFT,Microsoft Corp.,Feb 2010,28.36
+MSFT,Microsoft Corp.,Mar 2010,29.26
+MSFT,Microsoft Corp.,Apr 2010,30.52
+MSFT,Microsoft Corp.,May 2010,28.12
+MSFT,Microsoft Corp.,Jun 2010,25.42
+MSFT,Microsoft Corp.,Jul 2010,25.07
+MSFT,Microsoft Corp.,Aug 2010,24.71
+MSFT,Microsoft Corp.,Sep 2010,24.59
+MSFT,Microsoft Corp.,Oct 2010,25.18
+MSFT,Microsoft Corp.,Nov 2010,26.2
+MSFT,Microsoft Corp.,Dec 2010,27.55
+MSFT,Microsoft Corp.,Jan 2011,28.32
+MSFT,Microsoft Corp.,Feb 2011,27.32
+MSFT,Microsoft Corp.,Mar 2011,25.56
+MSFT,Microsoft Corp.,Apr 2011,25.78
+MSFT,Microsoft Corp.,May 2011,25.06
+MSFT,Microsoft Corp.,Jun 2011,24.45
+MSFT,Microsoft Corp.,Jul 2011,26.97
+MSFT,Microsoft Corp.,Aug 2011,25.39
+MSFT,Microsoft Corp.,Sep 2011,25.97
+MSFT,Microsoft Corp.,Oct 2011,26.7
+MSFT,Microsoft Corp.,Nov 2011,25.83
+MSFT,Microsoft Corp.,Dec 2011,25.71
+MSFT,Microsoft Corp.,Jan 2012,28.52
+MSFT,Microsoft Corp.,Feb 2012,30.83
+MSFT,Microsoft Corp.,Mar 2012,32.19
+MSFT,Microsoft Corp.,Apr 2012,31.51
+MSFT,Microsoft Corp.,May 2012,30.23
+MSFT,Microsoft Corp.,Jun 2012,29.68
+MSFT,Microsoft Corp.,Jul 2012,29.76
+MSFT,Microsoft Corp.,Aug 2012,30.36
+MSFT,Microsoft Corp.,Sep 2012,30.78
+MSFT,Microsoft Corp.,Oct 2012,29.07
+MSFT,Microsoft Corp.,Nov 2012,27.81
+MSFT,Microsoft Corp.,Dec 2012,26.97
+MSFT,Microsoft Corp.,Jan 2013,27.24
+MSFT,Microsoft Corp.,Feb 2013,27.74
+MSFT,Microsoft Corp.,Mar 2013,28.14
+MSFT,Microsoft Corp.,Apr 2013,29.87
+MSFT,Microsoft Corp.,May 2013,33.95
+MSFT,Microsoft Corp.,Jun 2013,34.63
+MSFT,Microsoft Corp.,Jul 2013,33.65
+MSFT,Microsoft Corp.,Aug 2013,32.49
+MSFT,Microsoft Corp.,Sep 2013,32.52
+MSFT,Microsoft Corp.,Oct 2013,34.38
+MSFT,Microsoft Corp.,Nov 2013,37.36
+MSFT,Microsoft Corp.,Dec 2013,37.46
+MSFT,Microsoft Corp.,Jan 2014,36.35
+MSFT,Microsoft Corp.,Feb 2014,37.24
+MSFT,Microsoft Corp.,Mar 2014,38.99
+MSFT,Microsoft Corp.,Apr 2014,40.13
+MSFT,Microsoft Corp.,May 2014,39.92
+MSFT,Microsoft Corp.,Jun 2014,41.36
+MSFT,Microsoft Corp.,Jul 2014,43.21
+MSFT,Microsoft Corp.,Aug 2014,44.26
+MSFT,Microsoft Corp.,Sep 2014,46.41
+MSFT,Microsoft Corp.,Oct 2014,45.2
+MSFT,Microsoft Corp.,Nov 2014,48.41
+MSFT,Microsoft Corp.,Dec 2014,47.49
+MSFT,Microsoft Corp.,Jan 2015,45.51
+MSFT,Microsoft Corp.,Feb 2015,43.08
+MSFT,Microsoft Corp.,Mar 2015,42.13
+MSFT,Microsoft Corp.,Apr 2015,43.47
+MSFT,Microsoft Corp.,May 2015,47.53
+MSFT,Microsoft Corp.,Jun 2015,45.96
+MSFT,Microsoft Corp.,Jul 2015,45.61
+MSFT,Microsoft Corp.,Aug 2015,45.51
+MSFT,Microsoft Corp.,Sep 2015,43.56
+MSFT,Microsoft Corp.,Oct 2015,48.7
+MSFT,Microsoft Corp.,Nov 2015,53.88
+MSFT,Microsoft Corp.,Dec 2015,55.4
+MSFT,Microsoft Corp.,Jan 2016,52.4
+MSFT,Microsoft Corp.,Feb 2016,51.38
+MSFT,Microsoft Corp.,Mar 2016,53.38
+MSFT,Microsoft Corp.,Apr 2016,54.05
+MSFT,Microsoft Corp.,May 2016,50.97
+MSFT,Microsoft Corp.,Jun 2016,50.92
+MSFT,Microsoft Corp.,Jul 2016,54.1
+MSFT,Microsoft Corp.,Aug 2016,57.72
+MSFT,Microsoft Corp.,Sep 2016,57.29
+MSFT,Microsoft Corp.,Oct 2016,58.4
+MSFT,Microsoft Corp.,Nov 2016,59.93
+MSFT,Microsoft Corp.,Dec 2016,62.12
+MSFT,Microsoft Corp.,Jan 2017,63.19
+MSFT,Microsoft Corp.,Feb 2017,64.11
+MSFT,Microsoft Corp.,Mar 2017,64.84
+MSFT,Microsoft Corp.,Apr 2017,66.17
+MSFT,Microsoft Corp.,May 2017,68.92
+MSFT,Microsoft Corp.,Jun 2017,70.52
+MSFT,Microsoft Corp.,Jul 2017,72.01
+MSFT,Microsoft Corp.,Aug 2017,72.82
+MSFT,Microsoft Corp.,Sep 2017,74.34
+MSFT,Microsoft Corp.,Oct 2017,77.94
+MSFT,Microsoft Corp.,Nov 2017,83.72
+MSFT,Microsoft Corp.,Dec 2017,84.76
+MSFT,Microsoft Corp.,Jan 2018,90.08
+MSFT,Microsoft Corp.,Feb 2018,91.0
+GOOGL,Alphabet Inc Class A,Jan 2010,289.59
+GOOGL,Alphabet Inc Class A,Feb 2010,267.71
+GOOGL,Alphabet Inc Class A,Mar 2010,280.8
+GOOGL,Alphabet Inc Class A,Apr 2010,278.81
+GOOGL,Alphabet Inc Class A,May 2010,248.92
+GOOGL,Alphabet Inc Class A,Jun 2010,242.48
+GOOGL,Alphabet Inc Class A,Jul 2010,236.72
+GOOGL,Alphabet Inc Class A,Aug 2010,239.9
+GOOGL,Alphabet Inc Class A,Sep 2010,247.51
+GOOGL,Alphabet Inc Class A,Oct 2010,288.26
+GOOGL,Alphabet Inc Class A,Nov 2010,301.31
+GOOGL,Alphabet Inc Class A,Dec 2010,296.07
+GOOGL,Alphabet Inc Class A,Jan 2011,308.03
+GOOGL,Alphabet Inc Class A,Feb 2011,308.73
+GOOGL,Alphabet Inc Class A,Mar 2011,291.42
+GOOGL,Alphabet Inc Class A,Apr 2011,277.56
+GOOGL,Alphabet Inc Class A,May 2011,264.94
+GOOGL,Alphabet Inc Class A,Jun 2011,251.7
+GOOGL,Alphabet Inc Class A,Jul 2011,287.16
+GOOGL,Alphabet Inc Class A,Aug 2011,273.85
+GOOGL,Alphabet Inc Class A,Sep 2011,266.35
+GOOGL,Alphabet Inc Class A,Oct 2011,281.15
+GOOGL,Alphabet Inc Class A,Nov 2011,297.52
+GOOGL,Alphabet Inc Class A,Dec 2011,313.98
+GOOGL,Alphabet Inc Class A,Jan 2012,307.75
+GOOGL,Alphabet Inc Class A,Feb 2012,303.5
+GOOGL,Alphabet Inc Class A,Mar 2012,313.95
+GOOGL,Alphabet Inc Class A,Apr 2012,310.03
+GOOGL,Alphabet Inc Class A,May 2012,303.0
+GOOGL,Alphabet Inc Class A,Jun 2012,285.6
+GOOGL,Alphabet Inc Class A,Jul 2012,298.32
+GOOGL,Alphabet Inc Class A,Aug 2012,331.59
+GOOGL,Alphabet Inc Class A,Sep 2012,359.51
+GOOGL,Alphabet Inc Class A,Oct 2012,363.39
+GOOGL,Alphabet Inc Class A,Nov 2012,335.39
+GOOGL,Alphabet Inc Class A,Dec 2012,352.0
+GOOGL,Alphabet Inc Class A,Jan 2013,367.46
+GOOGL,Alphabet Inc Class A,Feb 2013,394.66
+GOOGL,Alphabet Inc Class A,Mar 2013,409.4
+GOOGL,Alphabet Inc Class A,Apr 2013,398.6
+GOOGL,Alphabet Inc Class A,May 2013,438.76
+GOOGL,Alphabet Inc Class A,Jun 2013,439.07
+GOOGL,Alphabet Inc Class A,Jul 2013,451.16
+GOOGL,Alphabet Inc Class A,Aug 2013,437.96
+GOOGL,Alphabet Inc Class A,Sep 2013,443.09
+GOOGL,Alphabet Inc Class A,Oct 2013,469.82
+GOOGL,Alphabet Inc Class A,Nov 2013,515.94
+GOOGL,Alphabet Inc Class A,Dec 2013,542.72
+GOOGL,Alphabet Inc Class A,Jan 2014,568.76
+GOOGL,Alphabet Inc Class A,Feb 2014,595.68
+GOOGL,Alphabet Inc Class A,Mar 2014,591.81
+GOOGL,Alphabet Inc Class A,Apr 2014,546.56
+GOOGL,Alphabet Inc Class A,May 2014,542.98
+GOOGL,Alphabet Inc Class A,Jun 2014,567.28
+GOOGL,Alphabet Inc Class A,Jul 2014,592.49
+GOOGL,Alphabet Inc Class A,Aug 2014,583.34
+GOOGL,Alphabet Inc Class A,Sep 2014,592.13
+GOOGL,Alphabet Inc Class A,Oct 2014,557.54
+GOOGL,Alphabet Inc Class A,Nov 2014,552.54
+GOOGL,Alphabet Inc Class A,Dec 2014,529.19
+GOOGL,Alphabet Inc Class A,Jan 2015,515.92
+GOOGL,Alphabet Inc Class A,Feb 2015,540.99
+GOOGL,Alphabet Inc Class A,Mar 2015,565.97
+GOOGL,Alphabet Inc Class A,Apr 2015,549.48
+GOOGL,Alphabet Inc Class A,May 2015,547.68
+GOOGL,Alphabet Inc Class A,Jun 2015,550.8
+GOOGL,Alphabet Inc Class A,Jul 2015,617.47
+GOOGL,Alphabet Inc Class A,Aug 2015,667.66
+GOOGL,Alphabet Inc Class A,Sep 2015,647.79
+GOOGL,Alphabet Inc Class A,Oct 2015,691.56
+GOOGL,Alphabet Inc Class A,Nov 2015,759.64
+GOOGL,Alphabet Inc Class A,Dec 2015,771.04
+GOOGL,Alphabet Inc Class A,Jan 2016,736.66
+GOOGL,Alphabet Inc Class A,Feb 2016,724.39
+GOOGL,Alphabet Inc Class A,Mar 2016,746.79
+GOOGL,Alphabet Inc Class A,Apr 2016,756.61
+GOOGL,Alphabet Inc Class A,May 2016,726.53
+GOOGL,Alphabet Inc Class A,Jun 2016,719.59
+GOOGL,Alphabet Inc Class A,Jul 2016,741.07
+GOOGL,Alphabet Inc Class A,Aug 2016,800.21
+GOOGL,Alphabet Inc Class A,Sep 2016,801.62
+GOOGL,Alphabet Inc Class A,Oct 2016,813.65
+GOOGL,Alphabet Inc Class A,Nov 2016,784.74
+GOOGL,Alphabet Inc Class A,Dec 2016,800.62
+GOOGL,Alphabet Inc Class A,Jan 2017,830.25
+GOOGL,Alphabet Inc Class A,Feb 2017,836.75
+GOOGL,Alphabet Inc Class A,Mar 2017,853.79
+GOOGL,Alphabet Inc Class A,Apr 2017,861.38
+GOOGL,Alphabet Inc Class A,May 2017,961.65
+GOOGL,Alphabet Inc Class A,Jun 2017,973.37
+GOOGL,Alphabet Inc Class A,Jul 2017,963.44
+GOOGL,Alphabet Inc Class A,Aug 2017,937.96
+GOOGL,Alphabet Inc Class A,Sep 2017,945.88
+GOOGL,Alphabet Inc Class A,Oct 2017,999.14
+GOOGL,Alphabet Inc Class A,Nov 2017,1046.98
+GOOGL,Alphabet Inc Class A,Dec 2017,1053.92
+GOOGL,Alphabet Inc Class A,Jan 2018,1139.39
+GOOGL,Alphabet Inc Class A,Feb 2018,1100.6
+AAPL,Apple Inc.,Jan 2010,29.67
+AAPL,Apple Inc.,Feb 2010,28.4
+AAPL,Apple Inc.,Mar 2010,31.92
+AAPL,Apple Inc.,Apr 2010,35.88
+AAPL,Apple Inc.,May 2010,35.92
+AAPL,Apple Inc.,Jun 2010,37.31
+AAPL,Apple Inc.,Jul 2010,36.42
+AAPL,Apple Inc.,Aug 2010,35.9
+AAPL,Apple Inc.,Sep 2010,39.12
+AAPL,Apple Inc.,Oct 2010,42.99
+AAPL,Apple Inc.,Nov 2010,44.51
+AAPL,Apple Inc.,Dec 2010,45.93
+AAPL,Apple Inc.,Jan 2011,48.34
+AAPL,Apple Inc.,Feb 2011,50.17
+AAPL,Apple Inc.,Mar 2011,49.64
+AAPL,Apple Inc.,Apr 2011,48.63
+AAPL,Apple Inc.,May 2011,48.83
+AAPL,Apple Inc.,Jun 2011,47.3
+AAPL,Apple Inc.,Jul 2011,53.18
+AAPL,Apple Inc.,Aug 2011,53.82
+AAPL,Apple Inc.,Sep 2011,56.07
+AAPL,Apple Inc.,Oct 2011,56.75
+AAPL,Apple Inc.,Nov 2011,54.97
+AAPL,Apple Inc.,Dec 2011,56.13
+AAPL,Apple Inc.,Jan 2012,61.23
+AAPL,Apple Inc.,Feb 2012,71.08
+AAPL,Apple Inc.,Mar 2012,82.5
+AAPL,Apple Inc.,Apr 2012,86.57
+AAPL,Apple Inc.,May 2012,80.67
+AAPL,Apple Inc.,Jun 2012,82.08
+AAPL,Apple Inc.,Jul 2012,85.87
+AAPL,Apple Inc.,Aug 2012,91.81
+AAPL,Apple Inc.,Sep 2012,97.37
+AAPL,Apple Inc.,Oct 2012,90.67
+AAPL,Apple Inc.,Nov 2012,80.62
+AAPL,Apple Inc.,Dec 2012,76.01
+AAPL,Apple Inc.,Jan 2013,71.12
+AAPL,Apple Inc.,Feb 2013,65.28
+AAPL,Apple Inc.,Mar 2013,63.12
+AAPL,Apple Inc.,Apr 2013,59.97
+AAPL,Apple Inc.,May 2013,63.78
+AAPL,Apple Inc.,Jun 2013,60.79
+AAPL,Apple Inc.,Jul 2013,61.31
+AAPL,Apple Inc.,Aug 2013,69.26
+AAPL,Apple Inc.,Sep 2013,68.6
+AAPL,Apple Inc.,Oct 2013,72.11
+AAPL,Apple Inc.,Nov 2013,74.95
+AAPL,Apple Inc.,Dec 2013,79.95
+AAPL,Apple Inc.,Jan 2014,76.78
+AAPL,Apple Inc.,Feb 2014,75.23
+AAPL,Apple Inc.,Mar 2014,76.17
+AAPL,Apple Inc.,Apr 2014,77.3
+AAPL,Apple Inc.,May 2014,86.17
+AAPL,Apple Inc.,Jun 2014,91.89
+AAPL,Apple Inc.,Jul 2014,95.63
+AAPL,Apple Inc.,Aug 2014,98.44
+AAPL,Apple Inc.,Sep 2014,100.55
+AAPL,Apple Inc.,Oct 2014,101.7
+AAPL,Apple Inc.,Nov 2014,113.29
+AAPL,Apple Inc.,Dec 2014,112.41
+AAPL,Apple Inc.,Jan 2015,110.64
+AAPL,Apple Inc.,Feb 2015,125.43
+AAPL,Apple Inc.,Mar 2015,125.97
+AAPL,Apple Inc.,Apr 2015,127.29
+AAPL,Apple Inc.,May 2015,128.76
+AAPL,Apple Inc.,Jun 2015,127.81
+AAPL,Apple Inc.,Jul 2015,125.34
+AAPL,Apple Inc.,Aug 2015,113.39
+AAPL,Apple Inc.,Sep 2015,112.8
+AAPL,Apple Inc.,Oct 2015,113.36
+AAPL,Apple Inc.,Nov 2015,118.16
+AAPL,Apple Inc.,Dec 2015,111.73
+AAPL,Apple Inc.,Jan 2016,98.43
+AAPL,Apple Inc.,Feb 2016,95.75
+AAPL,Apple Inc.,Mar 2016,104.27
+AAPL,Apple Inc.,Apr 2016,106.74
+AAPL,Apple Inc.,May 2016,94.97
+AAPL,Apple Inc.,Jun 2016,96.62
+AAPL,Apple Inc.,Jul 2016,98.56
+AAPL,Apple Inc.,Aug 2016,107.67
+AAPL,Apple Inc.,Sep 2016,110.86
+AAPL,Apple Inc.,Oct 2016,115.71
+AAPL,Apple Inc.,Nov 2016,110.15
+AAPL,Apple Inc.,Dec 2016,114.34
+AAPL,Apple Inc.,Jan 2017,119.57
+AAPL,Apple Inc.,Feb 2017,133.71
+AAPL,Apple Inc.,Mar 2017,140.62
+AAPL,Apple Inc.,Apr 2017,142.89
+AAPL,Apple Inc.,May 2017,152.23
+AAPL,Apple Inc.,Jun 2017,147.83
+AAPL,Apple Inc.,Jul 2017,148.3
+AAPL,Apple Inc.,Aug 2017,159.39
+AAPL,Apple Inc.,Sep 2017,157.61
+AAPL,Apple Inc.,Oct 2017,157.82
+AAPL,Apple Inc.,Nov 2017,172.41
+AAPL,Apple Inc.,Dec 2017,171.89
+AAPL,Apple Inc.,Jan 2018,174.01
+AAPL,Apple Inc.,Feb 2018,161.47
+AMZN,Amazon.com Inc,Jan 2010,127.42
+AMZN,Amazon.com Inc,Feb 2010,118.02
+AMZN,Amazon.com Inc,Mar 2010,130.9
+AMZN,Amazon.com Inc,Apr 2010,141.07
+AMZN,Amazon.com Inc,May 2010,127.61
+AMZN,Amazon.com Inc,Jun 2010,121.67
+AMZN,Amazon.com Inc,Jul 2010,117.52
+AMZN,Amazon.com Inc,Aug 2010,126.37
+AMZN,Amazon.com Inc,Sep 2010,147.66
+AMZN,Amazon.com Inc,Oct 2010,160.74
+AMZN,Amazon.com Inc,Nov 2010,168.52
+AMZN,Amazon.com Inc,Dec 2010,178.84
+AMZN,Amazon.com Inc,Jan 2011,182.35
+AMZN,Amazon.com Inc,Feb 2011,181.12
+AMZN,Amazon.com Inc,Mar 2011,168.8
+AMZN,Amazon.com Inc,Apr 2011,184.58
+AMZN,Amazon.com Inc,May 2011,198.17
+AMZN,Amazon.com Inc,Jun 2011,191.67
+AMZN,Amazon.com Inc,Jul 2011,215.2
+AMZN,Amazon.com Inc,Aug 2011,199.46
+AMZN,Amazon.com Inc,Sep 2011,223.24
+AMZN,Amazon.com Inc,Oct 2011,226.84
+AMZN,Amazon.com Inc,Nov 2011,205.48
+AMZN,Amazon.com Inc,Dec 2011,183.93
+AMZN,Amazon.com Inc,Jan 2012,185.03
+AMZN,Amazon.com Inc,Feb 2012,183.24
+AMZN,Amazon.com Inc,Mar 2012,189.53
+AMZN,Amazon.com Inc,Apr 2012,195.29
+AMZN,Amazon.com Inc,May 2012,220.88
+AMZN,Amazon.com Inc,Jun 2012,219.27
+AMZN,Amazon.com Inc,Jul 2012,224.06
+AMZN,Amazon.com Inc,Aug 2012,238.99
+AMZN,Amazon.com Inc,Sep 2012,255.74
+AMZN,Amazon.com Inc,Oct 2012,244.29
+AMZN,Amazon.com Inc,Nov 2012,234.42
+AMZN,Amazon.com Inc,Dec 2012,252.82
+AMZN,Amazon.com Inc,Jan 2013,268.38
+AMZN,Amazon.com Inc,Feb 2013,263.82
+AMZN,Amazon.com Inc,Mar 2013,265.76
+AMZN,Amazon.com Inc,Apr 2013,263.07
+AMZN,Amazon.com Inc,May 2013,262.73
+AMZN,Amazon.com Inc,Jun 2013,274.1
+AMZN,Amazon.com Inc,Jul 2013,298.98
+AMZN,Amazon.com Inc,Aug 2013,291.15
+AMZN,Amazon.com Inc,Sep 2013,304.73
+AMZN,Amazon.com Inc,Oct 2013,325.97
+AMZN,Amazon.com Inc,Nov 2013,364.83
+AMZN,Amazon.com Inc,Dec 2013,391.5
+AMZN,Amazon.com Inc,Jan 2014,394.86
+AMZN,Amazon.com Inc,Feb 2014,354.34
+AMZN,Amazon.com Inc,Mar 2014,362.63
+AMZN,Amazon.com Inc,Apr 2014,321.64
+AMZN,Amazon.com Inc,May 2014,302.95
+AMZN,Amazon.com Inc,Jun 2014,324.57
+AMZN,Amazon.com Inc,Jul 2014,339.92
+AMZN,Amazon.com Inc,Aug 2014,327.33
+AMZN,Amazon.com Inc,Sep 2014,330.31
+AMZN,Amazon.com Inc,Oct 2014,308.41
+AMZN,Amazon.com Inc,Nov 2014,318.69
+AMZN,Amazon.com Inc,Dec 2014,308.79
+AMZN,Amazon.com Inc,Jan 2015,302.75
+AMZN,Amazon.com Inc,Feb 2015,375.75
+AMZN,Amazon.com Inc,Mar 2015,375.32
+AMZN,Amazon.com Inc,Apr 2015,394.21
+AMZN,Amazon.com Inc,May 2015,426.93
+AMZN,Amazon.com Inc,Jun 2015,432.6
+AMZN,Amazon.com Inc,Jul 2015,478.71
+AMZN,Amazon.com Inc,Aug 2015,518.46
+AMZN,Amazon.com Inc,Sep 2015,520.96
+AMZN,Amazon.com Inc,Oct 2015,566.74
+AMZN,Amazon.com Inc,Nov 2015,657.7
+AMZN,Amazon.com Inc,Dec 2015,669.26
+AMZN,Amazon.com Inc,Jan 2016,601.06
+AMZN,Amazon.com Inc,Feb 2016,530.62
+AMZN,Amazon.com Inc,Mar 2016,572.37
+AMZN,Amazon.com Inc,Apr 2016,613.59
+AMZN,Amazon.com Inc,May 2016,697.47
+AMZN,Amazon.com Inc,Jun 2016,716.39
+AMZN,Amazon.com Inc,Jul 2016,741.47
+AMZN,Amazon.com Inc,Aug 2016,764.84
+AMZN,Amazon.com Inc,Sep 2016,788.97
+AMZN,Amazon.com Inc,Oct 2016,824.44
+AMZN,Amazon.com Inc,Nov 2016,763.34
+AMZN,Amazon.com Inc,Dec 2016,763.33
+AMZN,Amazon.com Inc,Jan 2017,807.5
+AMZN,Amazon.com Inc,Feb 2017,835.75
+AMZN,Amazon.com Inc,Mar 2017,854.24
+AMZN,Amazon.com Inc,Apr 2017,903.39
+AMZN,Amazon.com Inc,May 2017,961.72
+AMZN,Amazon.com Inc,Jun 2017,990.44
+AMZN,Amazon.com Inc,Jul 2017,1008.48
+AMZN,Amazon.com Inc,Aug 2017,971.27
+AMZN,Amazon.com Inc,Sep 2017,968.99
+AMZN,Amazon.com Inc,Oct 2017,1000.72
+AMZN,Amazon.com Inc,Nov 2017,1139.81
+AMZN,Amazon.com Inc,Dec 2017,1168.84
+AMZN,Amazon.com Inc,Jan 2018,1309.01
+AMZN,Amazon.com Inc,Feb 2018,1413.91
+NFLX,Netflix Inc.,Jan 2010,7.56
+NFLX,Netflix Inc.,Feb 2010,9.06
+NFLX,Netflix Inc.,Mar 2010,10.15
+NFLX,Netflix Inc.,Apr 2010,12.8
+NFLX,Netflix Inc.,May 2010,14.56
+NFLX,Netflix Inc.,Jun 2010,16.67
+NFLX,Netflix Inc.,Jul 2010,16.04
+NFLX,Netflix Inc.,Aug 2010,17.56
+NFLX,Netflix Inc.,Sep 2010,21.35
+NFLX,Netflix Inc.,Oct 2010,22.85
+NFLX,Netflix Inc.,Nov 2010,25.27
+NFLX,Netflix Inc.,Dec 2010,26.44
+NFLX,Netflix Inc.,Jan 2011,27.08
+NFLX,Netflix Inc.,Feb 2011,31.82
+NFLX,Netflix Inc.,Mar 2011,30.76
+NFLX,Netflix Inc.,Apr 2011,34.06
+NFLX,Netflix Inc.,May 2011,34.85
+NFLX,Netflix Inc.,Jun 2011,37.05
+NFLX,Netflix Inc.,Jul 2011,40.29
+NFLX,Netflix Inc.,Aug 2011,33.33
+NFLX,Netflix Inc.,Sep 2011,23.96
+NFLX,Netflix Inc.,Oct 2011,15.27
+NFLX,Netflix Inc.,Nov 2011,11.39
+NFLX,Netflix Inc.,Dec 2011,10.04
+NFLX,Netflix Inc.,Jan 2012,13.96
+NFLX,Netflix Inc.,Feb 2012,17.13
+NFLX,Netflix Inc.,Mar 2012,16.14
+NFLX,Netflix Inc.,Apr 2012,14.41
+NFLX,Netflix Inc.,May 2012,10.43
+NFLX,Netflix Inc.,Jun 2012,9.39
+NFLX,Netflix Inc.,Jul 2012,10.75
+NFLX,Netflix Inc.,Aug 2012,8.68
+NFLX,Netflix Inc.,Sep 2012,8.08
+NFLX,Netflix Inc.,Oct 2012,9.4
+NFLX,Netflix Inc.,Nov 2012,11.43
+NFLX,Netflix Inc.,Dec 2012,12.77
+NFLX,Netflix Inc.,Jan 2013,16.72
+NFLX,Netflix Inc.,Feb 2013,26.2
+NFLX,Netflix Inc.,Mar 2013,26.38
+NFLX,Netflix Inc.,Apr 2013,26.12
+NFLX,Netflix Inc.,May 2013,31.96
+NFLX,Netflix Inc.,Jun 2013,31.28
+NFLX,Netflix Inc.,Jul 2013,35.16
+NFLX,Netflix Inc.,Aug 2013,37.74
+NFLX,Netflix Inc.,Sep 2013,43.35
+NFLX,Netflix Inc.,Oct 2013,45.96
+NFLX,Netflix Inc.,Nov 2013,48.95
+NFLX,Netflix Inc.,Dec 2013,52.58
+NFLX,Netflix Inc.,Jan 2014,51.3
+NFLX,Netflix Inc.,Feb 2014,61.63
+NFLX,Netflix Inc.,Mar 2014,59.26
+NFLX,Netflix Inc.,Apr 2014,48.66
+NFLX,Netflix Inc.,May 2014,51.78
+NFLX,Netflix Inc.,Jun 2014,61.9
+NFLX,Netflix Inc.,Jul 2014,63.2
+NFLX,Netflix Inc.,Aug 2014,65.32
+NFLX,Netflix Inc.,Sep 2014,66.12
+NFLX,Netflix Inc.,Oct 2014,58.93
+NFLX,Netflix Inc.,Nov 2014,53.35
+NFLX,Netflix Inc.,Dec 2014,48.51
+NFLX,Netflix Inc.,Jan 2015,53.41
+NFLX,Netflix Inc.,Feb 2015,66.13
+NFLX,Netflix Inc.,Mar 2015,62.52
+NFLX,Netflix Inc.,Apr 2015,72.26
+NFLX,Netflix Inc.,May 2015,85.2
+NFLX,Netflix Inc.,Jun 2015,93.2
+NFLX,Netflix Inc.,Jul 2015,104.24
+NFLX,Netflix Inc.,Aug 2015,117.5
+NFLX,Netflix Inc.,Sep 2015,100.57
+NFLX,Netflix Inc.,Oct 2015,105.59
+NFLX,Netflix Inc.,Nov 2015,116.07
+NFLX,Netflix Inc.,Dec 2015,121.3
+NFLX,Netflix Inc.,Jan 2016,105.45
+NFLX,Netflix Inc.,Feb 2016,89.97
+NFLX,Netflix Inc.,Mar 2016,99.32
+NFLX,Netflix Inc.,Apr 2016,100.81
+NFLX,Netflix Inc.,May 2016,93.17
+NFLX,Netflix Inc.,Jun 2016,94.3
+NFLX,Netflix Inc.,Jul 2016,93.16
+NFLX,Netflix Inc.,Aug 2016,95.62
+NFLX,Netflix Inc.,Sep 2016,97.45
+NFLX,Netflix Inc.,Oct 2016,113.16
+NFLX,Netflix Inc.,Nov 2016,118.38
+NFLX,Netflix Inc.,Dec 2016,124.01
+NFLX,Netflix Inc.,Jan 2017,134.88
+NFLX,Netflix Inc.,Feb 2017,142.5
+NFLX,Netflix Inc.,Mar 2017,143.23
+NFLX,Netflix Inc.,Apr 2017,145.46
+NFLX,Netflix Inc.,May 2017,158.4
+NFLX,Netflix Inc.,Jun 2017,156.51
+NFLX,Netflix Inc.,Jul 2017,169.45
+NFLX,Netflix Inc.,Aug 2017,172.39
+NFLX,Netflix Inc.,Sep 2017,181.67
+NFLX,Netflix Inc.,Oct 2017,194.28
+NFLX,Netflix Inc.,Nov 2017,195.22
+NFLX,Netflix Inc.,Dec 2017,187.85
+NFLX,Netflix Inc.,Jan 2018,232.91
+NFLX,Netflix Inc.,Feb 2018,263.41
+PCLN,Priceline.com Inc,Jan 2010,210.83
+PCLN,Priceline.com Inc,Feb 2010,213.71
+PCLN,Priceline.com Inc,Mar 2010,243.27
+PCLN,Priceline.com Inc,Apr 2010,260.25
+PCLN,Priceline.com Inc,May 2010,213.22
+PCLN,Priceline.com Inc,Jun 2010,185.22
+PCLN,Priceline.com Inc,Jul 2010,212.16
+PCLN,Priceline.com Inc,Aug 2010,288.57
+PCLN,Priceline.com Inc,Sep 2010,332.54
+PCLN,Priceline.com Inc,Oct 2010,349.97
+PCLN,Priceline.com Inc,Nov 2010,402.26
+PCLN,Priceline.com Inc,Dec 2010,408.08
+PCLN,Priceline.com Inc,Jan 2011,430.47
+PCLN,Priceline.com Inc,Feb 2011,447.31
+PCLN,Priceline.com Inc,Mar 2011,468.3
+PCLN,Priceline.com Inc,Apr 2011,523.98
+PCLN,Priceline.com Inc,May 2011,518.62
+PCLN,Priceline.com Inc,Jun 2011,490.46
+PCLN,Priceline.com Inc,Jul 2011,530.82
+PCLN,Priceline.com Inc,Aug 2011,500.65
+PCLN,Priceline.com Inc,Sep 2011,518.78
+PCLN,Priceline.com Inc,Oct 2011,487.38
+PCLN,Priceline.com Inc,Nov 2011,504.83
+PCLN,Priceline.com Inc,Dec 2011,473.53
+PCLN,Priceline.com Inc,Jan 2012,503.17
+PCLN,Priceline.com Inc,Feb 2012,569.0
+PCLN,Priceline.com Inc,Mar 2012,678.67
+PCLN,Priceline.com Inc,Apr 2012,731.05
+PCLN,Priceline.com Inc,May 2012,683.2
+PCLN,Priceline.com Inc,Jun 2012,648.75
+PCLN,Priceline.com Inc,Jul 2012,660.76
+PCLN,Priceline.com Inc,Aug 2012,600.27
+PCLN,Priceline.com Inc,Sep 2012,623.98
+PCLN,Priceline.com Inc,Oct 2012,596.4
+PCLN,Priceline.com Inc,Nov 2012,633.7
+PCLN,Priceline.com Inc,Dec 2012,630.26
+PCLN,Priceline.com Inc,Jan 2013,670.26
+PCLN,Priceline.com Inc,Feb 2013,692.59
+PCLN,Priceline.com Inc,Mar 2013,704.99
+PCLN,Priceline.com Inc,Apr 2013,704.55
+PCLN,Priceline.com Inc,May 2013,776.55
+PCLN,Priceline.com Inc,Jun 2013,814.77
+PCLN,Priceline.com Inc,Jul 2013,889.11
+PCLN,Priceline.com Inc,Aug 2013,938.63
+PCLN,Priceline.com Inc,Sep 2013,982.39
+PCLN,Priceline.com Inc,Oct 2013,1045.94
+PCLN,Priceline.com Inc,Nov 2013,1119.24
+PCLN,Priceline.com Inc,Dec 2013,1178.19
+PCLN,Priceline.com Inc,Jan 2014,1163.22
+PCLN,Priceline.com Inc,Feb 2014,1254.03
+PCLN,Priceline.com Inc,Mar 2014,1286.51
+PCLN,Priceline.com Inc,Apr 2014,1195.91
+PCLN,Priceline.com Inc,May 2014,1180.94
+PCLN,Priceline.com Inc,Jun 2014,1222.71
+PCLN,Priceline.com Inc,Jul 2014,1232.01
+PCLN,Priceline.com Inc,Aug 2014,1276.23
+PCLN,Priceline.com Inc,Sep 2014,1184.11
+PCLN,Priceline.com Inc,Oct 2014,1115.17
+PCLN,Priceline.com Inc,Nov 2014,1149.2
+PCLN,Priceline.com Inc,Dec 2014,1125.87
+PCLN,Priceline.com Inc,Jan 2015,1044.26
+PCLN,Priceline.com Inc,Feb 2015,1122.49
+PCLN,Priceline.com Inc,Mar 2015,1183.51
+PCLN,Priceline.com Inc,Apr 2015,1203.87
+PCLN,Priceline.com Inc,May 2015,1211.3
+PCLN,Priceline.com Inc,Jun 2015,1165.53
+PCLN,Priceline.com Inc,Jul 2015,1186.28
+PCLN,Priceline.com Inc,Aug 2015,1273.38
+PCLN,Priceline.com Inc,Sep 2015,1269.54
+PCLN,Priceline.com Inc,Oct 2015,1344.42
+PCLN,Priceline.com Inc,Nov 2015,1325.23
+PCLN,Priceline.com Inc,Dec 2015,1292.26
+PCLN,Priceline.com Inc,Jan 2016,1120.71
+PCLN,Priceline.com Inc,Feb 2016,1143.8
+PCLN,Priceline.com Inc,Mar 2016,1311.95
+PCLN,Priceline.com Inc,Apr 2016,1317.48
+PCLN,Priceline.com Inc,May 2016,1271.22
+PCLN,Priceline.com Inc,Jun 2016,1304.38
+PCLN,Priceline.com Inc,Jul 2016,1325.09
+PCLN,Priceline.com Inc,Aug 2016,1406.11
+PCLN,Priceline.com Inc,Sep 2016,1446.08
+PCLN,Priceline.com Inc,Oct 2016,1468.77
+PCLN,Priceline.com Inc,Nov 2016,1507.61
+PCLN,Priceline.com Inc,Dec 2016,1503.15
+PCLN,Priceline.com Inc,Jan 2017,1544.98
+PCLN,Priceline.com Inc,Feb 2017,1627.4
+PCLN,Priceline.com Inc,Mar 2017,1758.6
+PCLN,Priceline.com Inc,Apr 2017,1777.57
+PCLN,Priceline.com Inc,May 2017,1850.93
+PCLN,Priceline.com Inc,Jun 2017,1862.39
+PCLN,Priceline.com Inc,Jul 2017,1961.32
+PCLN,Priceline.com Inc,Aug 2017,1883.75
+PCLN,Priceline.com Inc,Sep 2017,1847.14
+PCLN,Priceline.com Inc,Oct 2017,1916.03
+PCLN,Priceline.com Inc,Nov 2017,1762.1
+PCLN,Priceline.com Inc,Dec 2017,1747.49
+PCLN,Priceline.com Inc,Jan 2018,1897.4
+PCLN,Priceline.com Inc,Feb 2018,1866.01
+AZO,AutoZone Inc,Jan 2010,156.1
+AZO,AutoZone Inc,Feb 2010,160.87
+AZO,AutoZone Inc,Mar 2010,170.39
+AZO,AutoZone Inc,Apr 2010,179.32
+AZO,AutoZone Inc,May 2010,184.12
+AZO,AutoZone Inc,Jun 2010,192.63
+AZO,AutoZone Inc,Jul 2010,204.01
+AZO,AutoZone Inc,Aug 2010,209.33
+AZO,AutoZone Inc,Sep 2010,220.88
+AZO,AutoZone Inc,Oct 2010,233.24
+AZO,AutoZone Inc,Nov 2010,248.89
+AZO,AutoZone Inc,Dec 2010,267.5
+AZO,AutoZone Inc,Jan 2011,252.92
+AZO,AutoZone Inc,Feb 2011,257.16
+AZO,AutoZone Inc,Mar 2011,267.08
+AZO,AutoZone Inc,Apr 2011,279.05
+AZO,AutoZone Inc,May 2011,285.87
+AZO,AutoZone Inc,Jun 2011,290.57
+AZO,AutoZone Inc,Jul 2011,295.28
+AZO,AutoZone Inc,Aug 2011,289.2
+AZO,AutoZone Inc,Sep 2011,320.63
+AZO,AutoZone Inc,Oct 2011,325.61
+AZO,AutoZone Inc,Nov 2011,327.44
+AZO,AutoZone Inc,Dec 2011,329.5
+AZO,AutoZone Inc,Jan 2012,342.29
+AZO,AutoZone Inc,Feb 2012,358.03
+AZO,AutoZone Inc,Mar 2012,379.11
+AZO,AutoZone Inc,Apr 2012,382.77
+AZO,AutoZone Inc,May 2012,380.74
+AZO,AutoZone Inc,Jun 2012,379.68
+AZO,AutoZone Inc,Jul 2012,374.36
+AZO,AutoZone Inc,Aug 2012,362.56
+AZO,AutoZone Inc,Sep 2012,366.92
+AZO,AutoZone Inc,Oct 2012,372.38
+AZO,AutoZone Inc,Nov 2012,380.19
+AZO,AutoZone Inc,Dec 2012,358.66
+AZO,AutoZone Inc,Jan 2013,355.38
+AZO,AutoZone Inc,Feb 2013,378.16
+AZO,AutoZone Inc,Mar 2013,389.01
+AZO,AutoZone Inc,Apr 2013,391.64
+AZO,AutoZone Inc,May 2013,415.69
+AZO,AutoZone Inc,Jun 2013,417.08
+AZO,AutoZone Inc,Jul 2013,435.56
+AZO,AutoZone Inc,Aug 2013,428.1
+AZO,AutoZone Inc,Sep 2013,419.41
+AZO,AutoZone Inc,Oct 2013,426.11
+AZO,AutoZone Inc,Nov 2013,454.83
+AZO,AutoZone Inc,Dec 2013,467.76
+AZO,AutoZone Inc,Jan 2014,493.23
+AZO,AutoZone Inc,Feb 2014,528.52
+AZO,AutoZone Inc,Mar 2014,535.47
+AZO,AutoZone Inc,Apr 2014,524.53
+AZO,AutoZone Inc,May 2014,531.15
+AZO,AutoZone Inc,Jun 2014,531.21
+AZO,AutoZone Inc,Jul 2014,525.53
+AZO,AutoZone Inc,Aug 2014,529.91
+AZO,AutoZone Inc,Sep 2014,524.65
+AZO,AutoZone Inc,Oct 2014,521.89
+AZO,AutoZone Inc,Nov 2014,566.81
+AZO,AutoZone Inc,Dec 2014,604.57
+AZO,AutoZone Inc,Jan 2015,599.57
+AZO,AutoZone Inc,Feb 2015,620.51
+AZO,AutoZone Inc,Mar 2015,660.66
+AZO,AutoZone Inc,Apr 2015,692.83
+AZO,AutoZone Inc,May 2015,683.25
+AZO,AutoZone Inc,Jun 2015,677.78
+AZO,AutoZone Inc,Jul 2015,679.71
+AZO,AutoZone Inc,Aug 2015,717.29
+AZO,AutoZone Inc,Sep 2015,729.46
+AZO,AutoZone Inc,Oct 2015,750.18
+AZO,AutoZone Inc,Nov 2015,783.04
+AZO,AutoZone Inc,Dec 2015,757.81
+AZO,AutoZone Inc,Jan 2016,727.77
+AZO,AutoZone Inc,Feb 2016,748.03
+AZO,AutoZone Inc,Mar 2016,788.87
+AZO,AutoZone Inc,Apr 2016,779.61
+AZO,AutoZone Inc,May 2016,770.1
+AZO,AutoZone Inc,Jun 2016,761.88
+AZO,AutoZone Inc,Jul 2016,801.86
+AZO,AutoZone Inc,Aug 2016,787.12
+AZO,AutoZone Inc,Sep 2016,746.61
+AZO,AutoZone Inc,Oct 2016,753.85
+AZO,AutoZone Inc,Nov 2016,758.8
+AZO,AutoZone Inc,Dec 2016,796.13
+AZO,AutoZone Inc,Jan 2017,766.9
+AZO,AutoZone Inc,Feb 2017,733.58
+AZO,AutoZone Inc,Mar 2017,723.23
+AZO,AutoZone Inc,Apr 2017,701.22
+AZO,AutoZone Inc,May 2017,663.85
+AZO,AutoZone Inc,Jun 2017,594.83
+AZO,AutoZone Inc,Jul 2017,511.93
+AZO,AutoZone Inc,Aug 2017,526.53
+AZO,AutoZone Inc,Sep 2017,560.34
+AZO,AutoZone Inc,Oct 2017,593.88
+AZO,AutoZone Inc,Nov 2017,622.89
+AZO,AutoZone Inc,Dec 2017,706.18
+AZO,AutoZone Inc,Jan 2018,777.02
+AZO,AutoZone Inc,Feb 2018,743.99
+MTD,Mettler Toledo,Jan 2010,100.97
+MTD,Mettler Toledo,Feb 2010,96.92
+MTD,Mettler Toledo,Mar 2010,107.0
+MTD,Mettler Toledo,Apr 2010,115.77
+MTD,Mettler Toledo,May 2010,116.71
+MTD,Mettler Toledo,Jun 2010,113.73
+MTD,Mettler Toledo,Jul 2010,116.49
+MTD,Mettler Toledo,Aug 2010,115.47
+MTD,Mettler Toledo,Sep 2010,121.0
+MTD,Mettler Toledo,Oct 2010,127.56
+MTD,Mettler Toledo,Nov 2010,141.37
+MTD,Mettler Toledo,Dec 2010,153.35
+MTD,Mettler Toledo,Jan 2011,150.82
+MTD,Mettler Toledo,Feb 2011,163.11
+MTD,Mettler Toledo,Mar 2011,170.73
+MTD,Mettler Toledo,Apr 2011,174.86
+MTD,Mettler Toledo,May 2011,173.17
+MTD,Mettler Toledo,Jun 2011,160.82
+MTD,Mettler Toledo,Jul 2011,164.79
+MTD,Mettler Toledo,Aug 2011,146.22
+MTD,Mettler Toledo,Sep 2011,149.23
+MTD,Mettler Toledo,Oct 2011,143.57
+MTD,Mettler Toledo,Nov 2011,156.59
+MTD,Mettler Toledo,Dec 2011,151.58
+MTD,Mettler Toledo,Jan 2012,166.33
+MTD,Mettler Toledo,Feb 2012,180.96
+MTD,Mettler Toledo,Mar 2012,181.72
+MTD,Mettler Toledo,Apr 2012,178.16
+MTD,Mettler Toledo,May 2012,167.08
+MTD,Mettler Toledo,Jun 2012,155.06
+MTD,Mettler Toledo,Jul 2012,154.26
+MTD,Mettler Toledo,Aug 2012,163.7
+MTD,Mettler Toledo,Sep 2012,171.59
+MTD,Mettler Toledo,Oct 2012,169.54
+MTD,Mettler Toledo,Nov 2012,179.82
+MTD,Mettler Toledo,Dec 2012,189.39
+MTD,Mettler Toledo,Jan 2013,206.17
+MTD,Mettler Toledo,Feb 2013,215.2
+MTD,Mettler Toledo,Mar 2013,216.49
+MTD,Mettler Toledo,Apr 2013,206.98
+MTD,Mettler Toledo,May 2013,221.09
+MTD,Mettler Toledo,Jun 2013,210.56
+MTD,Mettler Toledo,Jul 2013,215.07
+MTD,Mettler Toledo,Aug 2013,226.83
+MTD,Mettler Toledo,Sep 2013,235.28
+MTD,Mettler Toledo,Oct 2013,243.41
+MTD,Mettler Toledo,Nov 2013,246.24
+MTD,Mettler Toledo,Dec 2013,243.21
+MTD,Mettler Toledo,Jan 2014,248.8
+MTD,Mettler Toledo,Feb 2014,246.95
+MTD,Mettler Toledo,Mar 2014,238.85
+MTD,Mettler Toledo,Apr 2014,231.77
+MTD,Mettler Toledo,May 2014,241.1
+MTD,Mettler Toledo,Jun 2014,248.23
+MTD,Mettler Toledo,Jul 2014,256.14
+MTD,Mettler Toledo,Aug 2014,265.08
+MTD,Mettler Toledo,Sep 2014,265.96
+MTD,Mettler Toledo,Oct 2014,248.71
+MTD,Mettler Toledo,Nov 2014,283.69
+MTD,Mettler Toledo,Dec 2014,295.38
+MTD,Mettler Toledo,Jan 2015,298.28
+MTD,Mettler Toledo,Feb 2015,309.87
+MTD,Mettler Toledo,Mar 2015,319.38
+MTD,Mettler Toledo,Apr 2015,324.07
+MTD,Mettler Toledo,May 2015,325.83
+MTD,Mettler Toledo,Jun 2015,337.29
+MTD,Mettler Toledo,Jul 2015,339.57
+MTD,Mettler Toledo,Aug 2015,316.47
+MTD,Mettler Toledo,Sep 2015,290.87
+MTD,Mettler Toledo,Oct 2015,294.73
+MTD,Mettler Toledo,Nov 2015,331.42
+MTD,Mettler Toledo,Dec 2015,337.11
+MTD,Mettler Toledo,Jan 2016,314.86
+MTD,Mettler Toledo,Feb 2016,313.07
+MTD,Mettler Toledo,Mar 2016,335.73
+MTD,Mettler Toledo,Apr 2016,357.46
+MTD,Mettler Toledo,May 2016,365.66
+MTD,Mettler Toledo,Jun 2016,372.66
+MTD,Mettler Toledo,Jul 2016,382.28
+MTD,Mettler Toledo,Aug 2016,403.42
+MTD,Mettler Toledo,Sep 2016,403.93
+MTD,Mettler Toledo,Oct 2016,410.06
+MTD,Mettler Toledo,Nov 2016,417.97
+MTD,Mettler Toledo,Dec 2016,420.61
+MTD,Mettler Toledo,Jan 2017,422.56
+MTD,Mettler Toledo,Feb 2017,464.74
+MTD,Mettler Toledo,Mar 2017,480.77
+MTD,Mettler Toledo,Apr 2017,488.78
+MTD,Mettler Toledo,May 2017,554.79
+MTD,Mettler Toledo,Jun 2017,591.94
+MTD,Mettler Toledo,Jul 2017,597.69
+MTD,Mettler Toledo,Aug 2017,583.47
+MTD,Mettler Toledo,Sep 2017,622.97
+MTD,Mettler Toledo,Oct 2017,659.78
+MTD,Mettler Toledo,Nov 2017,634.85
+MTD,Mettler Toledo,Dec 2017,622.92
+MTD,Mettler Toledo,Jan 2018,656.52
+MTD,Mettler Toledo,Feb 2018,653.2
+GOOG,Alphabet Inc Class C,Jan 2010,288.22
+GOOG,Alphabet Inc Class C,Feb 2010,266.45
+GOOG,Alphabet Inc Class C,Mar 2010,279.47
+GOOG,Alphabet Inc Class C,Apr 2010,277.49
+GOOG,Alphabet Inc Class C,May 2010,247.74
+GOOG,Alphabet Inc Class C,Jun 2010,241.33
+GOOG,Alphabet Inc Class C,Jul 2010,235.6
+GOOG,Alphabet Inc Class C,Aug 2010,238.76
+GOOG,Alphabet Inc Class C,Sep 2010,246.34
+GOOG,Alphabet Inc Class C,Oct 2010,286.89
+GOOG,Alphabet Inc Class C,Nov 2010,299.88
+GOOG,Alphabet Inc Class C,Dec 2010,294.67
+GOOG,Alphabet Inc Class C,Jan 2011,306.58
+GOOG,Alphabet Inc Class C,Feb 2011,307.27
+GOOG,Alphabet Inc Class C,Mar 2011,290.04
+GOOG,Alphabet Inc Class C,Apr 2011,276.25
+GOOG,Alphabet Inc Class C,May 2011,263.69
+GOOG,Alphabet Inc Class C,Jun 2011,250.51
+GOOG,Alphabet Inc Class C,Jul 2011,285.8
+GOOG,Alphabet Inc Class C,Aug 2011,272.55
+GOOG,Alphabet Inc Class C,Sep 2011,265.09
+GOOG,Alphabet Inc Class C,Oct 2011,279.82
+GOOG,Alphabet Inc Class C,Nov 2011,296.12
+GOOG,Alphabet Inc Class C,Dec 2011,312.5
+GOOG,Alphabet Inc Class C,Jan 2012,306.3
+GOOG,Alphabet Inc Class C,Feb 2012,302.07
+GOOG,Alphabet Inc Class C,Mar 2012,312.47
+GOOG,Alphabet Inc Class C,Apr 2012,308.56
+GOOG,Alphabet Inc Class C,May 2012,301.56
+GOOG,Alphabet Inc Class C,Jun 2012,284.25
+GOOG,Alphabet Inc Class C,Jul 2012,296.91
+GOOG,Alphabet Inc Class C,Aug 2012,330.02
+GOOG,Alphabet Inc Class C,Sep 2012,357.81
+GOOG,Alphabet Inc Class C,Oct 2012,361.67
+GOOG,Alphabet Inc Class C,Nov 2012,333.81
+GOOG,Alphabet Inc Class C,Dec 2012,350.34
+GOOG,Alphabet Inc Class C,Jan 2013,365.72
+GOOG,Alphabet Inc Class C,Feb 2013,391.51
+GOOG,Alphabet Inc Class C,Mar 2013,407.47
+GOOG,Alphabet Inc Class C,Apr 2013,396.72
+GOOG,Alphabet Inc Class C,May 2013,436.68
+GOOG,Alphabet Inc Class C,Jun 2013,436.99
+GOOG,Alphabet Inc Class C,Jul 2013,449.03
+GOOG,Alphabet Inc Class C,Aug 2013,435.89
+GOOG,Alphabet Inc Class C,Sep 2013,441.0
+GOOG,Alphabet Inc Class C,Oct 2013,467.6
+GOOG,Alphabet Inc Class C,Nov 2013,513.5
+GOOG,Alphabet Inc Class C,Dec 2013,540.15
+GOOG,Alphabet Inc Class C,Jan 2014,566.07
+GOOG,Alphabet Inc Class C,Feb 2014,592.87
+GOOG,Alphabet Inc Class C,Mar 2014,585.31
+GOOG,Alphabet Inc Class C,Apr 2014,539.29
+GOOG,Alphabet Inc Class C,May 2014,533.32
+GOOG,Alphabet Inc Class C,Jun 2014,557.67
+GOOG,Alphabet Inc Class C,Jul 2014,583.22
+GOOG,Alphabet Inc Class C,Aug 2014,572.82
+GOOG,Alphabet Inc Class C,Sep 2014,581.09
+GOOG,Alphabet Inc Class C,Oct 2014,546.28
+GOOG,Alphabet Inc Class C,Nov 2014,542.24
+GOOG,Alphabet Inc Class C,Dec 2014,523.91
+GOOG,Alphabet Inc Class C,Jan 2015,511.72
+GOOG,Alphabet Inc Class C,Feb 2015,537.26
+GOOG,Alphabet Inc Class C,Mar 2015,558.95
+GOOG,Alphabet Inc Class C,Apr 2015,539.9
+GOOG,Alphabet Inc Class C,May 2015,535.24
+GOOG,Alphabet Inc Class C,Jun 2015,532.92
+GOOG,Alphabet Inc Class C,Jul 2015,590.09
+GOOG,Alphabet Inc Class C,Aug 2015,636.84
+GOOG,Alphabet Inc Class C,Sep 2015,617.93
+GOOG,Alphabet Inc Class C,Oct 2015,663.59
+GOOG,Alphabet Inc Class C,Nov 2015,735.39
+GOOG,Alphabet Inc Class C,Dec 2015,755.35
+GOOG,Alphabet Inc Class C,Jan 2016,718.5
+GOOG,Alphabet Inc Class C,Feb 2016,702.69
+GOOG,Alphabet Inc Class C,Mar 2016,727.06
+GOOG,Alphabet Inc Class C,Apr 2016,736.83
+GOOG,Alphabet Inc Class C,May 2016,712.18
+GOOG,Alphabet Inc Class C,Jun 2016,706.49
+GOOG,Alphabet Inc Class C,Jul 2016,725.71
+GOOG,Alphabet Inc Class C,Aug 2016,775.79
+GOOG,Alphabet Inc Class C,Sep 2016,773.62
+GOOG,Alphabet Inc Class C,Oct 2016,788.45
+GOOG,Alphabet Inc Class C,Nov 2016,766.64
+GOOG,Alphabet Inc Class C,Dec 2016,782.17
+GOOG,Alphabet Inc Class C,Jan 2017,807.9
+GOOG,Alphabet Inc Class C,Feb 2017,816.92
+GOOG,Alphabet Inc Class C,Mar 2017,834.11
+GOOG,Alphabet Inc Class C,Apr 2017,844.06
+GOOG,Alphabet Inc Class C,May 2017,939.28
+GOOG,Alphabet Inc Class C,Jun 2017,953.77
+GOOG,Alphabet Inc Class C,Jul 2017,942.86
+GOOG,Alphabet Inc Class C,Aug 2017,922.02
+GOOG,Alphabet Inc Class C,Sep 2017,931.3
+GOOG,Alphabet Inc Class C,Oct 2017,982.52
+GOOG,Alphabet Inc Class C,Nov 2017,1030.49
+GOOG,Alphabet Inc Class C,Dec 2017,1043.65
+GOOG,Alphabet Inc Class C,Jan 2018,1130.77
+GOOG,Alphabet Inc Class C,Feb 2018,1092.92
+CMG,Chipotle Mexican Grill,Jan 2010,95.26
+CMG,Chipotle Mexican Grill,Feb 2010,102.08
+CMG,Chipotle Mexican Grill,Mar 2010,112.96
+CMG,Chipotle Mexican Grill,Apr 2010,128.56
+CMG,Chipotle Mexican Grill,May 2010,137.54
+CMG,Chipotle Mexican Grill,Jun 2010,146.24
+CMG,Chipotle Mexican Grill,Jul 2010,140.31
+CMG,Chipotle Mexican Grill,Aug 2010,148.97
+CMG,Chipotle Mexican Grill,Sep 2010,168.25
+CMG,Chipotle Mexican Grill,Oct 2010,187.68
+CMG,Chipotle Mexican Grill,Nov 2010,234.24
+CMG,Chipotle Mexican Grill,Dec 2010,232.58
+CMG,Chipotle Mexican Grill,Jan 2011,223.86
+CMG,Chipotle Mexican Grill,Feb 2011,251.16
+CMG,Chipotle Mexican Grill,Mar 2011,253.48
+CMG,Chipotle Mexican Grill,Apr 2011,274.97
+CMG,Chipotle Mexican Grill,May 2011,276.03
+CMG,Chipotle Mexican Grill,Jun 2011,284.6
+CMG,Chipotle Mexican Grill,Jul 2011,326.18
+CMG,Chipotle Mexican Grill,Aug 2011,305.03
+CMG,Chipotle Mexican Grill,Sep 2011,316.85
+CMG,Chipotle Mexican Grill,Oct 2011,318.09
+CMG,Chipotle Mexican Grill,Nov 2011,321.86
+CMG,Chipotle Mexican Grill,Dec 2011,331.75
+CMG,Chipotle Mexican Grill,Jan 2012,354.83
+CMG,Chipotle Mexican Grill,Feb 2012,379.54
+CMG,Chipotle Mexican Grill,Mar 2012,407.0
+CMG,Chipotle Mexican Grill,Apr 2012,422.8
+CMG,Chipotle Mexican Grill,May 2012,405.81
+CMG,Chipotle Mexican Grill,Jun 2012,403.03
+CMG,Chipotle Mexican Grill,Jul 2012,353.88
+CMG,Chipotle Mexican Grill,Aug 2012,294.54
+CMG,Chipotle Mexican Grill,Sep 2012,326.51
+CMG,Chipotle Mexican Grill,Oct 2012,276.57
+CMG,Chipotle Mexican Grill,Nov 2012,266.06
+CMG,Chipotle Mexican Grill,Dec 2012,281.47
+CMG,Chipotle Mexican Grill,Jan 2013,299.03
+CMG,Chipotle Mexican Grill,Feb 2013,315.29
+CMG,Chipotle Mexican Grill,Mar 2013,321.78
+CMG,Chipotle Mexican Grill,Apr 2013,343.55
+CMG,Chipotle Mexican Grill,May 2013,369.65
+CMG,Chipotle Mexican Grill,Jun 2013,363.36
+CMG,Chipotle Mexican Grill,Jul 2013,390.37
+CMG,Chipotle Mexican Grill,Aug 2013,405.62
+CMG,Chipotle Mexican Grill,Sep 2013,418.11
+CMG,Chipotle Mexican Grill,Oct 2013,471.86
+CMG,Chipotle Mexican Grill,Nov 2013,534.81
+CMG,Chipotle Mexican Grill,Dec 2013,523.53
+CMG,Chipotle Mexican Grill,Jan 2014,520.43
+CMG,Chipotle Mexican Grill,Feb 2014,550.83
+CMG,Chipotle Mexican Grill,Mar 2014,582.35
+CMG,Chipotle Mexican Grill,Apr 2014,530.76
+CMG,Chipotle Mexican Grill,May 2014,511.96
+CMG,Chipotle Mexican Grill,Jun 2014,581.81
+CMG,Chipotle Mexican Grill,Jul 2014,623.1
+CMG,Chipotle Mexican Grill,Aug 2014,678.16
+CMG,Chipotle Mexican Grill,Sep 2014,666.17
+CMG,Chipotle Mexican Grill,Oct 2014,645.05
+CMG,Chipotle Mexican Grill,Nov 2014,656.27
+CMG,Chipotle Mexican Grill,Dec 2014,661.88
+CMG,Chipotle Mexican Grill,Jan 2015,705.22
+CMG,Chipotle Mexican Grill,Feb 2015,674.55
+CMG,Chipotle Mexican Grill,Mar 2015,668.47
+CMG,Chipotle Mexican Grill,Apr 2015,659.33
+CMG,Chipotle Mexican Grill,May 2015,629.85
+CMG,Chipotle Mexican Grill,Jun 2015,609.1
+CMG,Chipotle Mexican Grill,Jul 2015,674.41
+CMG,Chipotle Mexican Grill,Aug 2015,735.31
+CMG,Chipotle Mexican Grill,Sep 2015,724.5
+CMG,Chipotle Mexican Grill,Oct 2015,699.6
+CMG,Chipotle Mexican Grill,Nov 2015,597.37
+CMG,Chipotle Mexican Grill,Dec 2015,536.34
+CMG,Chipotle Mexican Grill,Jan 2016,442.82
+CMG,Chipotle Mexican Grill,Feb 2016,486.93
+CMG,Chipotle Mexican Grill,Mar 2016,493.82
+CMG,Chipotle Mexican Grill,Apr 2016,448.76
+CMG,Chipotle Mexican Grill,May 2016,447.75
+CMG,Chipotle Mexican Grill,Jun 2016,408.8
+CMG,Chipotle Mexican Grill,Jul 2016,414.51
+CMG,Chipotle Mexican Grill,Aug 2016,402.89
+CMG,Chipotle Mexican Grill,Sep 2016,416.91
+CMG,Chipotle Mexican Grill,Oct 2016,406.23
+CMG,Chipotle Mexican Grill,Nov 2016,393.13
+CMG,Chipotle Mexican Grill,Dec 2016,383.97
+CMG,Chipotle Mexican Grill,Jan 2017,406.82
+CMG,Chipotle Mexican Grill,Feb 2017,417.18
+CMG,Chipotle Mexican Grill,Mar 2017,413.93
+CMG,Chipotle Mexican Grill,Apr 2017,464.96
+CMG,Chipotle Mexican Grill,May 2017,481.77
+CMG,Chipotle Mexican Grill,Jun 2017,445.37
+CMG,Chipotle Mexican Grill,Jul 2017,378.41
+CMG,Chipotle Mexican Grill,Aug 2017,322.42
+CMG,Chipotle Mexican Grill,Sep 2017,311.81
+CMG,Chipotle Mexican Grill,Oct 2017,306.12
+CMG,Chipotle Mexican Grill,Nov 2017,281.4
+CMG,Chipotle Mexican Grill,Dec 2017,307.21
+CMG,Chipotle Mexican Grill,Jan 2018,324.3
+CMG,Chipotle Mexican Grill,Feb 2018,300.64

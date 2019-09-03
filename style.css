@@ -1,0 +1,150 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-color: #000140;
+    margin:0;
+}
+#background {
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #0f0919;
+}
+#viz3 {
+  background-color: white; /* For browsers that do not support gradients */
+  background-image: radial-gradient(white,white,#000140, #000140); 
+}
+h1{
+/*            font-family: 'Oswald', sans-serif;*/
+/*            text-transform: uppercase;*/
+    color: #fff; 
+    text-align: center;
+    font-weight: 500;
+
+}
+
+h2{
+    color: #fff; 
+    text-align: center; 
+    font-weight: 300
+}
+#full_screen {
+   width:100%;
+    padding-top: 125px
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+               border-radius: 10px;
+
+}
+button{
+     background-color: #4CAF50; /* Green */
+    border-radius: 5px;
+      border: none;
+      color: black;
+      padding: 5px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 20px;
+    font-weight: 600;
+    font-family: 'Oswald',sans-serif;
+    text-transform: uppercase;
+        margin-top: 20px
+}
+button:hover {
+    cursor: pointer;
+}
+
+i {
+  border: solid white;
+  border-width: 0 4px 4px 0;
+  display: inline-block;
+  padding: 5px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+#viz2 {
+    display: block; 
+    width: 1430px; 
+    height: 750px; 
+    margin-left: auto;
+    margin-right: auto; 
+/*            border:20px solid #000170; */
+    background-color: #000140;
+/*            background-image: linear-gradient(#000140,#00019f,#0001bf,#0001cf,#0001ff, #0001cf,#00019f, #000140);*/
+    background-image: linear-gradient(#000140,#00019f,#0001bf);
+    margin-bottom: 100px;
+}
+
+#viz5 {
+    display: block; 
+    width: 1000px; 
+    height: 500px; 
+    margin-left: auto;
+    margin-right: auto; 
+/*            border:20px solid #000170; */
+    background-color: #000140;
+    background-image: linear-gradient(#000140,lightblue,lightcyan,white);
+    margin-bottom: 100px;
+}
+
+
+svg {
+  width: 100%;
+}
+
+.link {
+  stroke: #aaa;
+}
+
+.node {
+		cursor: pointer;
+	}
+
+	.node circle {
+		fill: #fff;
+		stroke: steelblue;
+		stroke-width: 1.5px;
+	}
+
+	.found {
+		fill: #ff4136;
+		stroke: #ff4136;
+	}
+	.node text {
+		font: 10px sans-serif #fff;
+	}
+
+	.link {
+		fill: none;
+		stroke: #ccc;
+		stroke-width: 1.5px;
+	}
+	/*Just to ensure the select2 box is "glued" to the top*/
+	.search {
+	  width: 100%;
+	}
+
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 110px;					
+    height: 40px;					
+    padding: 3px;
+    font: 12px Helvetica;		
+    background: lightgreen;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
